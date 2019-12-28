@@ -10,9 +10,4 @@ Tools by which the project is developed :
 * DiaTool
 * PostgreSQL
 
----
-Members behind the database project :
-* Sharath N
-* Shashank S Shettar
-* ShashiKumar Jutoor
-* Abhishek S
+
